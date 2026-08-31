@@ -1,14 +1,14 @@
-LineageOS
+LINAGO-OS
 ===========
 
 Getting started
 ---------------
 
-To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+To get started with Android/LINAGO-OS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
 
-To initialize your local repository using the LineageOS trees, use a command like this:
+To initialize your local repository using the LINAGO-OS trees, use a command like this:
 ```
-repo init -u https://github.com/LineageOS/android.git -b lineage-23.2 --git-lfs
+repo init -u https://github.com/LINAGO-OS/android.git -b lineage-23.2 --git-lfs
 ```
 Then to sync up:
 ```
